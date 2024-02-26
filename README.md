@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joantubungbanua
-- 👀 I’m interested in Human Spaceflight/Deep Space Exploration!
+- 👀 I’m interested in exploring the cross sections between Tech, Human Spaceflight/Deep Space Exploration, and the Performing Arts!
 - 🌱 I’m currently learning how to do embedded systems programming!
 - 📫 How to reach me: joantubungbanua@gmail.com
 
